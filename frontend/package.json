@@ -13,6 +13,8 @@
     "check": "bunx biome check"
   },
   "dependencies": {
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
     "@tanstack/react-router": "^1.127.0",
     "@tanstack/react-router-devtools": "^1.127.0",
     "@tanstack/react-router-with-query": "^1.127.0",
